@@ -21,6 +21,9 @@ This project is a Weather GUI Application developed using Python and Tkinter. It
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/weather-gui.git
+1. **Navigate to the project directory:**
+   ```bash
+   cd weather-gui
 2. **Run the application:**
    ```bash
    python weather_app.py
