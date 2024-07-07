@@ -20,7 +20,7 @@ This project is a Weather GUI Application developed using Python and Tkinter. It
 
 1. **Clone the repository:**
    ```bash
-   https://github.com/mahindra4/weather-gui.git
+   git clone https://github.com/mahindra4/weather-gui.git
 1. **Navigate to the project directory:**
    ```bash
    cd weather-gui
