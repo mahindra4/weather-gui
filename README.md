@@ -29,4 +29,8 @@ This project is a Weather GUI Application developed using Python and Tkinter. It
    python weather_app.py
 
 ## Demo Video
-[demo video]()
+
+
+
+https://github.com/mahindra4/weather-gui/assets/139013310/c5be7df5-a8ae-4ded-a23d-87a60c9c3688
+
